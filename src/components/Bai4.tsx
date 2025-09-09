@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom'
 import Register from './pages/Register'
 
-export default function Ex04() {
+export default function Bai4() {
   return (
     <div>
       <Routes>

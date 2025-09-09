@@ -1,8 +1,7 @@
-import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Login from './pages/Login'
 
-export default function Ex03() {
+export default function Bai3() {
   return (
     <div>
       <Routes>
